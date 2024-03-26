@@ -42,7 +42,8 @@ s.n. dasgupta
 ### Display the content of the files
 cat < file1
 ## OUTPUT
-/home/sec/Pictures/Screenshots/Screenshot from 2024-03-26 11-15-59.png
+![image](https://github.com/MohamedNadheem/OS-Linux-commands-Shell-script/assets/148197556/d283bc49-6adf-45cd-91c8-d2c17fe19665)
+
 
 
 cat < file2
