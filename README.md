@@ -42,11 +42,12 @@ s.n. dasgupta
 ### Display the content of the files
 cat < file1
 ## OUTPUT
-
+/home/sec/Pictures/Screenshots/Screenshot from 2024-03-26 11-15-59.png
 
 
 cat < file2
 ## OUTPUT
+![image](https://github.com/MohamedNadheem/OS-Linux-commands-Shell-script/assets/148197556/83cfc087-5964-4ebb-8c5a-d0469cdb4955)
 
 
 # Comparing Files
